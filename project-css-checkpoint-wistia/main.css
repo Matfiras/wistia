@@ -1,0 +1,209 @@
+body{
+  font-family: sans-serif;
+  text-decoration:none;
+  right:0 ;
+}
+
+.top-button{
+  border: 1px solid #efefef;
+ 
+}
+.end-button{
+  border: 1px solid #efefef;
+  background-color: #f9f9f9;
+}
+.selection-buttons{
+margin: 4% 2% 0%;
+padding-bottom: 2%
+
+}
+.logo{
+margin-top:5%;
+}
+.name-of-web{
+  border: 1px solid green;
+  align-content: center;
+  color: #363945;
+ 
+}
+.selection-menu{
+  border: 1px solid red;
+
+}
+.big{
+    
+    background-color:#c896a5;
+    
+    height: 570px;
+}
+.position-1{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin:10%;
+  color: #363945;
+  
+
+
+}
+.position-2{
+  margin:2%
+}
+.three-windows{
+  display: flex;
+  flex-direction: column;
+  height: 420px;
+  margin:12%;
+}
+.medium-1{
+  background-color: #FED24A;
+}
+.medium-2{
+
+  background-color: #51c29f
+
+}
+.medium-3{
+
+  background-color: #3ea9f5
+
+}
+
+
+
+.watch-video{
+ background-color: antiquewhite;
+ color:black;
+ width: 210px;
+ height: 68px;
+ text-align: center;
+ padding:1.5em 2.9em;
+ margin:10%;
+ border-radius:0.2em;
+ text-decoration:none;
+ font-weight: bold;
+ cursor: pointer;
+}
+.transparent-button{
+
+    padding:1.5em 2.9em;
+    margin:1 0.5em 0.5em 1;
+    border-radius:0.2em;
+    color: #2A2D35;
+    border-color: rgba(255,255,255,0.55);
+    text-decoration:none;
+    font-weight: bold;
+    cursor: pointer;
+}
+.icon-one{
+  height: 45px;
+  width: 45px; 
+  color:#3ea9f5;
+}
+.icon-two{
+  height: 45px;
+  width: 45px; 
+  color:antiquewhite;
+}
+.icon-three{
+  height: 45px;
+  width: 45px; 
+  color:#FED24A;
+}
+.medium-text{
+  padding:15% 0% 15%;
+}
+.photo-size{
+  width: 180;
+  height: 112;
+  margin:10% 15% 5%;
+}
+.sponsor-photos{
+  margin: 2%;
+  
+}
+.photo-serie{
+  display: flex;
+  width: 10%;
+  height: 10%;
+}
+.paragraph-sponsors{
+  width: 10%;
+  height: 10%;
+
+}
+.external-info{
+  margin:1%;
+  width: 340;
+  height: 224
+}
+.Terms-of-Service-link{
+  background-color: #efefef;
+  color: #323232;
+  text-align: center;
+  padding: 1.2%;
+}
+.social-media-links{
+  margin:3% 2% 1% 3%
+}
+
+
+.links-to-follow{
+  color: #efefef;
+ 
+
+}
+.bar-style{
+  background-color: #EFEFEF;
+    border: none;
+    height: 1px;
+    margin: 0 60px;
+    margin-top: 0;
+
+}
+.text-center{
+  color: #B2B9C1;
+    margin: 30px 60px;
+    text-align: center;
+}
+.listes{
+  color: #B2B9C1;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+
+}
+.title-footer{
+  font-weight: 500;
+  color:white
+}
+
+.liste-of-product{
+  margin:25% 0% 2%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+ 
+}
+
+.liste-of-Company{
+  margin:25% 0% 2%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  
+}
+.liste-of-Learn{
+  margin:25% 0% 2%;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+
+}
+.liste-of-Support{
+  margin:25% 0% 2%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+}
+
